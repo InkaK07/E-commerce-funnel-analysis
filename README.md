@@ -1,5 +1,13 @@
 # E-commerce-funnel-analysis
 
+Below are selected screenshots from the Power BI dashboard created for this analysis.
+
+![Funnel Overview](Funnel Visualization Rates over 6 Months (including anomaly).png) 
+
+![Funnel Overview-without anomaly](Funnel Visualization Excluding the Anomaly.png)
+
+
+
 ## Project Overview
 This project explores and analyses user behaviour in an e-commerce setting using event-level data.  
 The goal is to clean the dataset, explore customer interactions, and derive insights related to conversion behavior, timing, and purchasing patterns.
