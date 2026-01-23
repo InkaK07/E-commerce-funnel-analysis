@@ -2,11 +2,12 @@
 
 Below are selected screenshots from the Power BI dashboard created for this analysis.
 
-![Funnel Overview](https://github.com/InkaK07/E-commerce-funnel-analysis/blob/main/images/funnel_overview_with_anomaly.png)
+![Funnel Overview](https://raw.githubusercontent.com/InkaK07/E-commerce-funnel-analysis/main/images/funnel_overview_with_anomaly.png)
 
-![Funnel Overview – Without Anomaly](https://github.com/InkaK07/E-commerce-funnel-analysis/blob/main/images/funnel_overview_without_anomaly.png)
+![Funnel Overview – Without Anomaly](https://raw.githubusercontent.com/InkaK07/E-commerce-funnel-analysis/main/images/funnel_overview_without_anomaly.png)
 
-![Median Conversions](https://github.com/InkaK07/E-commerce-funnel-analysis/blob/main/images/median_conversions_time_price.png)
+![Median Conversions](https://raw.githubusercontent.com/InkaK07/E-commerce-funnel-analysis/main/images/median_conversions_time_price.png)
+
 
 ## Project Overview
 This project explores and analyses user behaviour in an e-commerce setting using event-level data.  
