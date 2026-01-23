@@ -2,11 +2,11 @@
 
 Below are selected screenshots from the Power BI dashboard created for this analysis.
 
-![Funnel Overview](https://raw.githubusercontent.com/InkaK07/E-commerce-funnel-analysis/main/images/funnel_overview_with_anomaly.png)
+![Funnel Overview](funnel_overview_with_anomaly.png]([https://github.com/InkaK07/E-commerce-funnel-analysis/blob/main/funnel_overview_with_anomaly.png)) 
 
-![Funnel Overview – Without Anomaly](https://raw.githubusercontent.com/InkaK07/E-commerce-funnel-analysis/main/images/funnel_overview_without_anomaly.png)
+![Funnel Overview-without anomaly]([https://github.com/InkaK07/E-commerce-funnel-analysis/blob/main/funnel_overview_without_anomaly.png)
 
-![Median Conversions](https://raw.githubusercontent.com/InkaK07/E-commerce-funnel-analysis/main/images/median_conversions_time_price.png)
+![Median Conversions](median_conversions_time_price.png](https://github.com/InkaK07/E-commerce-funnel-analysis/blob/main/median_conversions_time_price.png)
 
 
 ## Project Overview
