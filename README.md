@@ -2,9 +2,9 @@
 
 Below are selected screenshots from the Power BI dashboard created for this analysis.
 
-![Funnel Overview](Funnel Visualization Rates over 6 Months (including anomaly).png) 
+![Funnel Overview]([Funnel Visualization Rates over 6 Months (including anomaly).png](https://github.com/InkaK07/E-commerce-funnel-analysis/blob/main/Funnel%20Visualization%20Rates%20over%206%20Months%20(including%20anomaly).png)) 
 
-![Funnel Overview-without anomaly](Funnel Visualization Excluding the Anomaly.png)
+![Funnel Overview-without anomaly]([Funnel Visualization Excluding the Anomaly.png](https://github.com/InkaK07/E-commerce-funnel-analysis/blob/main/Funnel%20Visualization%20Excluding%20the%20Anomaly.png))
 
 
 
